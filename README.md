@@ -165,7 +165,7 @@ And then you can use that terminal to run ComfyUI without installing any depende
 
 # Running
 
-```python main.py```
+```python3 main.py```
 
 ### For AMD cards not officially supported by ROCm
 
